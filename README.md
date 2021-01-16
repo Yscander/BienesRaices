@@ -5,4 +5,4 @@ Proyecto de una web de bienes raices, usando CSS Y HTML Desarrollando todo el HT
 Link para visitarla:
 
 https://bienesraicesmq.netlify.app/
-https://yscander.github.io/BienesRaices/
+
